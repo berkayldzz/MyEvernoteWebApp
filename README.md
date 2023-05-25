@@ -8,9 +8,9 @@ Not paylaşımı,beğenme ve yorum yapma gibi özelliklerin olduğu bir ASP.Net 
 
 ## Kullanılan Teknolojiler
 
--NTier Project Pattern
--Repository Entity Pattern
--ASP.Net MVC
--EntityFramework Code First
--Singleton Pattern
+- NTier Project Pattern
+- Repository Entity Pattern
+- ASP.Net MVC
+- EntityFramework Code First
+- Singleton Pattern
 
