@@ -4,7 +4,7 @@
 
 ## Kullanılan Teknolojiler
 
-- NTier Project Pattern
+- N-Tier Project Pattern
 - Repository Entity Pattern
 - ASP.Net MVC
 - EntityFramework Code First
